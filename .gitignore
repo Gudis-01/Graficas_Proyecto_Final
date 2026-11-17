@@ -32,3 +32,6 @@ crashlytics-build.properties
 # Script de subida
 subir_a_github.bat
 subir_log.txt
+
+# Copias locales
+Claude outputs/

@@ -74,7 +74,7 @@ Material:
     - _CutoutRoughness: 0.6
     - _CutoutSize: 14
     - _DetailNormalMapScale: 1
-    - _DotSize: 0.6
+    - _DotSize: 0.13
     - _DstBlend: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
